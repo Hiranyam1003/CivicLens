@@ -1,0 +1,8 @@
+{
+  "name": "CivicLens",
+  "description": "An AI-powered civic issue reporting app that identifies infrastructure problems, generates formal complaints for Indian authorities, and gamifies the process.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
