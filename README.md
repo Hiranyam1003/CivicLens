@@ -1,10 +1,10 @@
-# 🏙️ Civic Lens
+# Civic Lens
 
 **Civic Lens** is an AI-powered platform that enables citizens to report urban issues instantly. By capturing a photo, the app uses the **Gemini API** to analyze the problem, generate a structured report, and route it to the appropriate authorities while maintaining a public feed for community awareness.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **AI Vision Analysis:** Automatically identifies civic issues (potholes, debris, broken infrastructure) from images.
 * **Auto-Report Generation:** Gemini generates a formal description and severity assessment.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** React (TypeScript)
 * **Build Tool:** Vite
@@ -22,7 +22,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `App.tsx`: Main application logic and UI shell.
 - `components/`: Reusable UI elements for the feed and camera interface.
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ### Prerequisites
 * [Node.js](https://nodejs.org/) installed.
@@ -63,7 +63,7 @@
 
 ---
 
-## 📸 Workflow
+## Workflow
 
 1.  **Snap:** User captures a photo of a civic grievance.
 2.  **Analyze:** The `gemini-1.5-flash` model processes the image to extract details.
@@ -72,10 +72,10 @@
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📜 License
+##  License
 Distributed under the MIT License.
